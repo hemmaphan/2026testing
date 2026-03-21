@@ -2,3 +2,4 @@ Line 1 on master
 Line 2 on master
 Line 3 on test_two
 Extra line on test_two
+Extra line on master
